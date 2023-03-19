@@ -6,7 +6,7 @@ Correcta ejecución:
 	- Activar los servicios de 'Apache' y 'MySQL' de XAMPP.
 	- En el navegador de su preferencia: 'http://localhost/phpmyadmin', luego importar base de datos a phpmyadmin.
 	- En una nueva pestaña: 'http://localhost/PHP/index.php'.
-	- Ingresar con los datos de administrador; Rol:202030548-k, Contraseña:admin, o registrarse.
+	- Ingresar con los datos de administrador; Rol:2020*****-*, Contraseña:admin, o registrarse.
 	- Navegar por CrunchyUSM,
 
 Correciones:
